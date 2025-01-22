@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240473939613",
+    "project_id": "adminperpus-1c46e",
+    "storage_bucket": "adminperpus-1c46e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240473939613:android:349e603df8a7fc10d9fe74",
+        "android_client_info": {
+          "package_name": "com.example.adminperpus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1DvJo0zEJeDooI5_2VZvo26ofPv2F8to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
